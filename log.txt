@@ -1,0 +1,26 @@
+command: concert-this
+Name of Band: modest mouse
+Name of Venue: Pepsi Center
+Location: Denver
+Date: 09-23-2019
+command: spotify-this-song
+Artist(s): Barrett Baber
+Song Name: Regulators
+Preview Song: https://p.scdn.co/mp3-preview/7e5ac7c1e05cec945e1150433d7d87f0c6b464c9?cid=d1df868865b04d51956bacccf58f190f
+Album: Colt Square Sessions
+command: movie-this
+Title: True Romance
+Year: 1993
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 92%
+Country: USA, France
+Language: English, Italian
+Plot: In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.
+Actors: Christian Slater, Patricia Arquette, Dennis Hopper, Val Kilmer
+command: do-what-it-says
+spotify-this-song,"I Want it That Way"
+command: spotify-this-song
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d1df868865b04d51956bacccf58f190f
+Album: The Hits--Chapter One
