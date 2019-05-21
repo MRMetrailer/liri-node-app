@@ -13,12 +13,11 @@ var moment = require("moment");
 
 var fs = require("fs");
 
-
+// Spotify
 var getNames = function (artist) {
     return artist.name;
 };
 
-// Spotify
 var spotifyResults = function (songName) {
     if (!songName) {
         songName = "Ace of Base The Sign";
@@ -65,7 +64,6 @@ var movieResults = function (movieName) {
             output("Title: " + movieData.Title);
             output("Year: " + movieData.Year);
             output("IMDB Rating: " + movieData.imdbRating);
-            // todo - loop through ratings and check source
             output("Rotten Tomatoes Rating: " + movieData.Ratings[1].Value);
             output("Country: " + movieData.Country);
             output("Language: " + movieData.Language);

@@ -22,3 +22,6 @@ Available commands and their actions are listed below.
 - `do-what-it-says` - Reads the contents of the random.txt file and calls one of the above commands.
 
 
+## Example
+
+Click on the link to see a GIF of [liri bot in action](./liriApp.gif).
